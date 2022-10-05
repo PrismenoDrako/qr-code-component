@@ -20,7 +20,7 @@ html, body, main{
 main{
     background-color: var(--bg-main);
     padding: 20px;
-    font-size: 16px;
+    font-size: 15px;
     font-family: 'Outfit', sans-serif;
     display: flex;
     justify-content: center;
